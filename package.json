@@ -39,7 +39,8 @@
   },
   "dependencies": {
     "dbf": "github:preteck/dbf",
-    "jszip": "^3.2.2"
+    "jszip": "^3.2.2",
+    "@turf/along": "^6.5.0"
   },
   "devDependencies": {
     "browserify": "^13.0.0",
